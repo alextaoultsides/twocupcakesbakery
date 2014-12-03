@@ -27,7 +27,12 @@ body {
 }
 
 .thumbnail{
-	 background-color: #ad74e7;
+	background-color: #ad74e7;
+    border-color: #6bcbf0;
+}
+
+.btn-default{
+	background-color: #ad74e7;
     border-color: #6bcbf0;
 }
 
