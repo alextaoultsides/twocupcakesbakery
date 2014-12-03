@@ -7,26 +7,34 @@
 	<rect style="fill:#9C8E81;" width="1024" height="768"/>
 </g>
 <g id="Layer_2">
-	<g>
+	<a xlink:href="/index.html">
 		<rect x="1" style="fill:#662D91;" width="205" height="214"/>
 		<ellipse style="fill:#662D91;" cx="103.5" cy="218" rx="101.5" ry="68"/>
-	</g>
+	</a>
 	<g>
+	<a xlink:href="/contact.html">
 		<rect x="819" style="fill:#662D91;" width="205" height="214"/>
 		<ellipse style="fill:#662D91;" cx="922.5" cy="214" rx="102.5" ry="68"/>
+	</a>
 	</g>
 	<ellipse style="fill:#662D91;" cx="513.5" cy="214" rx="101.5" ry="68"/>
 	<g>
+	<a xlink:href="/flavors.html">
 		<rect x="411" style="fill:#662D91;" width="206" height="214"/>
 		<ellipse style="fill:#662D91;" cx="513" cy="218" rx="102" ry="68"/>
+	</a>
 	</g>
 	<g>
+	<a xlink:href="/pictures.html">
 		<rect x="205" style="fill:#22B573;" width="205" height="214"/>
 		<ellipse style="fill:#22B573;" cx="307.59" cy="218" rx="101.59" ry="68"/>
+	</a>
 	</g>
 	<g>
+	<a xlink:href="/aboutus.html">
 		<rect x="615" style="fill:#22B573;" width="205" height="214"/>
 		<ellipse style="fill:#22B573;" cx="717.17" cy="218" rx="102.17" ry="68"/>
+	</a>
 	</g>
 	<rect x="103.5" y="342" style="fill:#22B573;" width="258.5" height="426"/>
 	<rect x="130" y="366" style="fill:#FFFFFF;" width="206" height="207"/>
