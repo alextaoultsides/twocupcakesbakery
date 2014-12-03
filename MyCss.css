@@ -8,6 +8,11 @@ body {
     border-color: #6bcbf0;
 }
 
+.nav-tabs {
+    background-color: #ad74e7;
+    border-color: #6bcbf0;
+}
+
 .resize {
     width: 400px;
     height: auto;
@@ -16,6 +21,10 @@ body {
     margin-right: auto;
 }
 
+.active{
+	background-color: #ad74e7;
+    border-color: #6bcbf0;
+}
 
 @font-face {
     font-family: CrafyGirls;
