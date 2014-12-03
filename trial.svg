@@ -5,18 +5,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1024 768" style="enable-background:new 0 0 1024 768;" xml:space="preserve">
-	<a xlink:href="/pictures.html">
-        <text x="10" y="20">Photos</text>
-    </a>
-	<a <strong>xlink:href="/flavors.html"</strong>>
-    	<text x="10" y="25" >Flavors</text>
-  	</a>
-  	<a <strong>xlink:href="/aboutus.html"</strong>>
-    	<text x="10" y="25" >About Us</text>
-  	</a>
-  	<a <strong>xlink:href="/contact.html"</strong>>
-    	<text x="10" y="25" >Contact</text>
-  	</a>
 <g id="Layer_1">
 	<rect style="fill:#9C8E81;" width="1024" height="768"/>
 </g>
