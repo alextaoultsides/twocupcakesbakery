@@ -33,10 +33,10 @@ if(isset($_POST['email'])) {
 
     $email_message = "Form details below.\n\n";
      
-    $email_message .= "First Name: ".clean_string($first_name)."\n";
-    $email_message .= "Last Name: ".clean_string($last_name)."\n";
-    $email_message .= "Email: ".clean_string($email_from)."\n";
-    $email_message .= "Comments: ".clean_string($comments)."\n";
+    $email_message .= "First Name: ".$first_name."\n";
+    $email_message .= "Last Name: ".$last_name."\n";
+    $email_message .= "Email: ".$email_from."\n";
+    $email_message .= "Comments: ".$comments."\n";
      
  create email headers
 $headers = 'From: '.$email_from."\r\n".
