@@ -41,7 +41,7 @@ if(isset($_POST['email'])) {
  create email headers
 $headers = 'From: '.$email_from."\r\n".
 'Reply-To: '.$email_from."\r\n" .
-$mail_status = mail($email_to, $email_subject, $email_message, $headers);  
+mail($email_to, $email_subject, $email_message, $headers);  
  { ?><script language="javascript" type="text/javascript">
     window.location = 'contact_page.html';
 </script>
