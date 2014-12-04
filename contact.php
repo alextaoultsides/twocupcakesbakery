@@ -48,11 +48,6 @@ $mail_status = mail($email_to, $email_subject, $email_message, $headers);
 <?php
 }
 
- 
-<!-- place your own success html below -->
- 
-Thank you for contacting Two Cupcakes Bakery!
- 
 <?php
 }
 die();
