@@ -66,3 +66,11 @@ p {
 	font-variant: normal;
 	font-weight: 750px;
 }
+li {
+	text-align: left;
+	font-family: "Crafty Girls";
+	font-size: 16px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 750px;
+}
