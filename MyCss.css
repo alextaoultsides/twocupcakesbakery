@@ -61,6 +61,14 @@ input {
 	font-variant: normal;
 	font-weight: 500px;
 }
+textarea {
+	text-align: center;
+	font-family: "Crafty Girls";
+	font-size: 15px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500px;
+}
 
 h3 {
 	text-align: center;
