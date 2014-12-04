@@ -23,6 +23,7 @@ if(isset($_POST['email'])) {
         !isset($_POST['comments'])) {
         died('Please fill in all required part of the form.');       
     }
+    echo "here";
      
     $first_name = $_POST['first_name']; // required
     $last_name = $_POST['last_name']; // required
@@ -41,17 +42,12 @@ if(isset($_POST['email'])) {
 $headers = 'From: '.$email_from."\r\n".
 'Reply-To: '.$email_from."\r\n" .
 $mail_status = mail($email_to, $email_subject, $email_message, $headers);  
-if ($mail_status) { ?>
-    <script language="javascript" type="text/javascript">
-        window.location = 'contact_page.html';
-    </script>
+ { ?><script language="javascript" type="text/javascript">
+    window.location = 'contact_page.html';
+</script>
+<?php
 }
 
-else { ?>
-    <script language="javascript" type="text/javascript">
-        window.location = 'contact_page.html';
-    </script>
-?>
  
 <!-- place your own success html below -->
  
