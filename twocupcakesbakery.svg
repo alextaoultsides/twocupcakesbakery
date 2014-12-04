@@ -7,33 +7,42 @@
 	<rect style="fill:#9C8E81;" width="1024" height="768"/>
 </g>
 <g id="Layer_2">
-	<g>
+	<a xlink:href="./index.html">
 		<rect x="1" style="fill:#662D91;" width="205" height="214"/>
+		<text x="102" height="214"> Home </text>
 		<ellipse style="fill:#662D91;" cx="103.5" cy="218" rx="101.5" ry="68"/>
-	</g>
+	</a>
 	<g>
+	<a xlink:href="./contact.html">
 		<rect x="819" style="fill:#662D91;" width="205" height="214"/>
 		<ellipse style="fill:#662D91;" cx="922.5" cy="214" rx="102.5" ry="68"/>
+	</a>
 	</g>
 	<ellipse style="fill:#662D91;" cx="513.5" cy="214" rx="101.5" ry="68"/>
 	<g>
+	<a xlink:href="./flavors.html">
 		<rect x="411" style="fill:#662D91;" width="206" height="214"/>
 		<ellipse style="fill:#662D91;" cx="513" cy="218" rx="102" ry="68"/>
+	</a>
 	</g>
 	<g>
+	<a xlink:href="./pictures.html">
 		<rect x="205" style="fill:#22B573;" width="205" height="214"/>
 		<ellipse style="fill:#22B573;" cx="307.59" cy="218" rx="101.59" ry="68"/>
+	</a>
 	</g>
 	<g>
+	<a xlink:href="./aboutus.html">
 		<rect x="615" style="fill:#22B573;" width="205" height="214"/>
 		<ellipse style="fill:#22B573;" cx="717.17" cy="218" rx="102.17" ry="68"/>
+	</a>
 	</g>
 	<rect x="103.5" y="342" style="fill:#22B573;" width="258.5" height="426"/>
 	<rect x="130" y="366" style="fill:#FFFFFF;" width="206" height="207"/>
 	<rect x="454" y="342" style="fill:#FFFFFF;" width="506" height="290"/>
 	<rect x="454" y="632" style="fill:#662D91;" width="506" height="37"/>
 	
-		<image style="overflow:visible;" width="2383" height="1734" xlink:href="../../../Desktop/Logo/cupcakes1.png"  transform="matrix(0.1351 0 0 0.1351 546 337.3343)">
+		<image style="overflow:visible;" width="2383" height="1734" xlink:href="./cupcakes1.png"  transform="matrix(0.1351 0 0 0.1351 546 337.3343)">
 	</image>
 	
 		<rect x="169" y="475" transform="matrix(0.9838 -0.1793 0.1793 0.9838 -87.388 50.9649)" style="fill:#E8DDD3;" width="138.59" height="68"/>
